@@ -4,5 +4,7 @@ telsko kitchen
 
 chicken
 
+pizza
+fish fry
 
 Thank you
